@@ -1,0 +1,8 @@
+2000 Transferred from 101 credit 1000 81000
+2000 Transferred from 102 credit 1000 82000
+2000 Transferred from 103 credit 1000 83000
+1001 Transferred to 101 debit 1000 82000
+1001 Transferred to 102 debit 1000 81000
+1001 Transferred to 103 debit 1000 80000
+1001 Transferred to 105 debit 1000 79000
+2000 Transferred from 105 credit 3000 82000

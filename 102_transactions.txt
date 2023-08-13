@@ -1,0 +1,9 @@
+2000 Transferred from 101 credit 1000 35123
+2000 Transferred from 101 credit 1000 36123
+1001 Transferred to 101 debit 1000 35123
+1001 Transferred to 103 debit 1000 34123
+1001 Transferred to 104 debit 1000 33123
+1001 Transferred to 105 debit 1000 32123
+2000 Transferred from 103 credit 1000 33123
+2000 Transferred from 104 credit 1000 34123
+2000 Transferred from 105 credit 1000 35123
